@@ -6,7 +6,7 @@ An Automated Dataset Annotation Framework for Snow-covered Road Surface Classifi
 ## Description
 This dataset is dedicated for snow-covered roads classification. It includes over 40000 annotated images describing four different road cover states. All images are collected in Montreal City, Quebec, Canada during the 2022 winter season. Images are captured by traffic monitoring cameras that installed in various road intersections around the city. These cameras are publicly avaible via the Montreal city [website](https://ville.montreal.qc.ca/circulation/).
 The Dataset defines four classes according to their visual characteristics and that are aligned with snow removal operation performed in Montreal. Examples of each class are illusrated below.
-<!-- ![](/figures/clear_night.jpeg)         |   ![](/figures/light_day.jpeg)|   ![](/figures/heavy_night.jpeg) |   ![](/figures/plowed_day.jpeg) -->
+<!-- ![](figures/clear_night.jpeg)         |   ![](figures/light_day.jpeg)|   ![](figures/heavy_night.jpeg) |   ![](figures/plowed_day.jpeg) -->
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 *Clear surface* |  *Light-covered surface* | *Medium-to-heavy-covered surface* | *Plowed surface*
 ## Dataset Aqcuisition
